@@ -37,4 +37,3 @@ N'hésitez pas à me contacter si vous avez des questions, des suggestions ou de
 
 - Email : adri1girault@gmail.com
 - LinkedIn : [Adrien Girault](https://www.linkedin.com/in/adrien-girault-a88963237/)
-- Adresse : 5 rue Aubert du Petit Thouars, 78960 Voisin-le-Bretonneux
