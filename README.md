@@ -24,11 +24,11 @@ J'ai mis en œuvre à l'aide d'autres personnes, un projet de carte à puce qui 
 - **Administration**: Environnements Windows et Linux, C, C++, Python.
 - **Développement Web et Mobile**: HTML, CSS, PHP, SQL, IPBX, VoIP.
 - **Télécommunications**: Réseaux fixes et mobiles, intégration et administration de bases de données (MySQL).
-- **Cybersécurité**: Sécurité des systèmes d'information, processus de revue des habilitations, audits.
+- **Cybersécurité**: Sécurité des systèmes d'information, processus de revue des habilitations, audits, analyse de log, pentest.
 
 ## Éducation
 Après mon obtention de mon Bachelor Universitaire et Technologiques en Réseau et Télécommunications, je poursuis mon parcours en Ecole d'ingénieur à l'ESIEA à Paris dans le domaine de l'informatique
-
+J'ai pu aussi poursuivre 2 Semestre à l'étranger dans le cadre de mes études, au Canada et aux Etats-Unis
 Je suis aussi actuellement en Alternance en tant que Administrateur Cybersécurité.
 
 ## Contact
