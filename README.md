@@ -27,9 +27,9 @@ J'ai mis en œuvre à l'aide d'autres personnes, un projet de carte à puce qui 
 - **Cybersécurité**: Sécurité des systèmes d'information, processus de revue des habilitations, audits.
 
 ## Éducation
+Après mon obtention de mon Bachelor Universitaire et Technologiques en Réseau et Télécommunications, je poursuis mon parcours en Ecole d'ingénieur à l'ESIEA à Paris dans le domaine de l'informatique
 
-Je poursuis actuellement mon BUT Réseaux & Télécommunications à l'IUT Vélizy, UVSQ Vélizy-Villacoublay (78). J'ai eu l'opportunité d'étudier à l'étranger au Canada à l'UQAC de janvier 2023 à avril 2023.
-Je suis aussi actuellement en Alternance en tant que Administrateur Zabbix.
+Je suis aussi actuellement en Alternance en tant que Administrateur Cybersécurité.
 
 ## Contact
 
