@@ -1,7 +1,4 @@
 
-![Banner](Banner.png)
-
-
 ## Présentation
 
 Bienvenue sur mon dépôt GitHub ! Ce répertoire met en avant mes projets et travaux liés à mes études en Réseaux & Télécommunications.
